@@ -156,9 +156,19 @@ p{
     width: 150px;
 }
 #beneficios li a p{
+    color: #000;
     font-size: 0.8em;
 }
 #beneficios li a h3{
-    font-size: 0.8em;
+    font-size: 1em;
+    color: #615b2d ;
+    padding: 5px 0px;
+    background: url(../imagens/ornamento.png) no-repeat center right;
 }
+#beneficios li:hover{
+    background: #f6f6d6;
+    cursor: pointer;
+}
+
+
 
