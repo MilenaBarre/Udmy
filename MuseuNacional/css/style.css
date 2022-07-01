@@ -1,0 +1,11 @@
+body{
+    background: #f4f2ec url(../img/fundo.png) repeat-x;
+    font: 12px "Lucinda Grande", "Lucinda sans Unicode", arial , sans-serif;
+}
+#conteiner{
+    width: 1080px;
+    margin: 0 auto;
+}
+header{
+
+}
