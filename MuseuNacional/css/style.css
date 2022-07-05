@@ -13,7 +13,9 @@ a:link, a:active, a:visited{
 a:hover{
     color: #227115;
 }
-
+#logo{
+    float: left;
+}
 #logo a{
     width: 248px;
     height: 21px;
@@ -43,3 +45,14 @@ nav ul li a:link{
 nav ul li a:hover{
     border-bottom: 1px solid #535858;
 }
+#conteudo{
+    width: 710px;
+    float: left;
+    background:#ebe7dd;
+}
+aside{
+    width: 350px;
+    float: right;
+    background:#ebe7dd;
+}
+
